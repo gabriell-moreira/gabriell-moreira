@@ -73,7 +73,7 @@ Estou aberto para oportunidades, networking e colaboração em projetos.
 </p>
 
 <div align="center">
-  <a href="https://github.com/gabrielmoreiradevs" target="_blank">
+  <a href="https://github.com/gabrielmoreira-code" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-moreiraf/" target="_blank">
