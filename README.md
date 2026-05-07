@@ -56,11 +56,11 @@ Meu objetivo é atuar em equipes de desenvolvimento, contribuindo com soluções
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoreira-code&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gabriell-moreira&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoreira-code&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-moreira&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
 
-[![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmoreira-code&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Atividade recente de Gabriel Moreira](https://github-readme-activity-graph.vercel.app/graph?username=gabriell-moreira&bg_color=0d1117&color=054f77&line=054f77&point=054f77&area=true&area_color=054f77&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -73,7 +73,7 @@ Estou aberto para oportunidades, networking e colaboração em projetos.
 </p>
 
 <div align="center">
-  <a href="https://github.com/gabrielmoreira-code" target="_blank">
+  <a href="https://github.com/gabriell-moreira" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-moreiraf/" target="_blank">
