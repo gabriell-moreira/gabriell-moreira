@@ -37,7 +37,7 @@ Meu objetivo é atuar em equipes de desenvolvimento, contribuindo com soluções
 ## 🛠 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,arduino,vscode,idea,webstorm,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,py,angular,arduino,vscode,idea,webstorm,postman" />
 </p>
 
 ---
