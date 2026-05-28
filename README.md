@@ -1,6 +1,4 @@
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:054f77&height=250&section=header&text=Gabriel%20Moreira&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20Java%20&descAlignY=65"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:054f77&height=300&section=header&text=Gabriel%20Moreira&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20•%20Java%20|%20Frontend%20Developer%20•%20TypeScript%20Angular&descAlignY=65"/>
 
 <h1 align="center">👨🏻‍💻 Olá, eu sou o Gabriel!</h1>
 
