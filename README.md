@@ -31,11 +31,47 @@ Tenho experiência prática com:
 Meu objetivo é atuar em equipes de desenvolvimento, contribuindo com soluções reais, escaláveis e bem estruturadas.
 
 ---
-
-## 🛠 Tecnologias e Ferramentas
+## 💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql,docker,git,github,html,css,js,ts,nestjs,nodejs,bootstrap,c,cpp,cs,lua,py,angular,arduino,vscode,idea,webstorm,postman,grafana" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,lua" />
+</p>
+
+## ☕ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,nestjs,nodejs,maven" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+</p>
+
+## 🗄️ Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+## ⚙️ DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,grafana" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,postman" />
+</p>
+
+
+## 🔌 IoT
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
 ---
